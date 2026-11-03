@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">ISAS1.GITHUB.IO — A Home For Small Experiments.</title><desc id="desc">Projects, prototypes, and things worth sharing</desc>
+<rect width="1200" height="400" fill="#F4EEEE"/><rect x="14" y="14" width="1172" height="372" fill="white" stroke="#DCE2E9" stroke-width="2"/>
+<rect x="64" y="62" width="8" height="22" fill="#BE4D4D"/><text x="90" y="80" font-family="Mozilla Headline,Arial Narrow,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#5A6245">ISAS1.GITHUB.IO</text>
+<text x="64" y="174" font-family="Mozilla Headline,Arial Narrow,sans-serif" font-size="45" font-weight="700" letter-spacing="-1" fill="#0E2A47">A Home For Small Experiments.</text>
+<path d="M65 205h570" stroke="#BE4D4D" stroke-width="4"/><text x="65" y="250" font-family="Mozilla Text,Arial,sans-serif" font-size="21" fill="#0E2A47">Projects, prototypes, and things worth sharing</text>
+<path d="M830 180l165-110 165 110v140H830z" fill="white" stroke="#0E2A47" stroke-width="3"/><path d="M955 320V210h80v110" fill="#F4EEEE"/><path d="M850 185l145-95 145 95" fill="none" stroke="#BE4D4D" stroke-width="9" stroke-linejoin="round"/><text x="64" y="344" font-family="Mozilla Text,Arial,sans-serif" font-size="14" letter-spacing="2" fill="#5A6245">SAM CREATES  /  ISAS1</text>
+</svg>
