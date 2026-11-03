@@ -1,9 +1,3 @@
-# Sam / isas1
-
-I build useful tools, practical AI skills, and playful web projects. I like clear ideas, thoughtful interfaces, and small things that help people create more.
-
-## Pinned projects
-
 ### [Skills](https://github.com/isas1/skills)
 
 <p align="center"><a href="https://github.com/isas1/skills"><img src="assets/banners/skills.svg" alt="Skills — Clear Words. Useful Pages." width="100%"></a></p>
