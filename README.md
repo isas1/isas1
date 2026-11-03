@@ -1,16 +1,31 @@
-## Hi there 👋
+# Sam / isas1
 
-<!--
-**isas1/isas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build useful tools, practical AI skills, and playful web projects. I like clear ideas, thoughtful interfaces, and small things that help people create more.
 
-Here are some ideas to get you started:
+## Pinned projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Skills](https://github.com/isas1/skills)
+
+<p align="center"><a href="https://github.com/isas1/skills"><img src="assets/banners/skills.svg" alt="Skills — Clear Words. Useful Pages." width="100%"></a></p>
+
+Skills for explaining and summarising AI output: `eli5-succinct`, `simple-summary`, and `summary`.
+
+### [Forever AI Components](https://github.com/isas1/forever-ai-components)
+
+<p align="center"><a href="https://github.com/isas1/forever-ai-components"><img src="assets/banners/forever-ai-components.svg" alt="Forever AI Components — 600+ Pieces. Ready To Build." width="100%"></a></p>
+
+600+ zero-dependency animated components. One HTML file each. Built for AI agents.
+
+### [Daily Team](https://github.com/isas1/daily-team)
+
+<p align="center"><a href="https://github.com/isas1/daily-team"><img src="assets/banners/daily-team.svg" alt="Daily Team — Four Roles. One Useful Idea." width="100%"></a></p>
+
+A new four-person creative team every day, and the small web tool it built.
+
+### [My First Portfolio](https://github.com/isas1/isas1.github.io)
+
+<p align="center"><a href="https://github.com/isas1/isas1.github.io"><img src="assets/banners/isas1.github.io.svg" alt="My First Portfolio" width="100%"></a></p>
+
+My first portfolio.
+
+[All public repositories →](https://github.com/isas1?tab=repositories) · [YouTube: Sam Automates](https://www.youtube.com/@sam.automates)
